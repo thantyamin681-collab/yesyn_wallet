@@ -1,0 +1,11 @@
+# 1. Environment variables (အရေးကြီးဆုံး - လျှို့ဝှက်ချက်များ)
+.env
+
+# 2. Node modules (Library ဖိုင်များ - အရမ်းများပြီး မလိုအပ်လို့ မတင်တာပါ)
+node_modules/
+
+# 3. Logs (Error log ဖိုင်များ)
+*.log
+
+# 4. System files
+.DS_Store
